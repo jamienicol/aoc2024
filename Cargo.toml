@@ -1,0 +1,9 @@
+[package]
+name = "aoc2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+nom = "7"
+itertools = "0.13"
